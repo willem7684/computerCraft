@@ -1,4 +1,5 @@
 -- Server script for advanced computer
+-- Pastebin code: 2ZPGz1h4
 -- Define farm dimensions
 local width = 5
 local length = 5
