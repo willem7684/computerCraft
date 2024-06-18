@@ -1,4 +1,5 @@
 -- Client script for farming turtle
+-- Pastebin code: hRx0fec8
 -- Define modem side and seed slot
 local modemSide = "left"
 local seedSlot = 1
